@@ -1,0 +1,27 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  border: 1px solid #e2e2e2;
+  height: 2rem;
+  width: 9.50rem;
+}
+
+td {
+  border: 1px solid #e2e2e2;
+  height: 9.50rem;
+  width: 9.50rem;
+
+  vertical-align: top;
+}
+
+.grey {
+  background-color: #f2f2f2;
+  border: 1px solid #333;
+  border-radius: 8px;
+}
