@@ -7,15 +7,15 @@ table {
 }
 
 th {
-  border: 1px solid #e2e2e2;
+  border: 1px solid #ccc;
   height: 2rem;
-  width: 9.50rem;
+  width: 9.5rem;
 }
 
 td {
-  border: 1px solid #e2e2e2;
-  height: 9.50rem;
-  width: 9.50rem;
+  border: 1px solid #ccc;
+  height: 9.5rem;
+  width: 9.5rem;
 
   vertical-align: top;
 }
@@ -26,5 +26,24 @@ td {
 
 .grey {
   background-color: #f2f2f2;
-  border: 1px solid #333;
+  border: 1px solid #666;
+  color: #333;
+}
+
+.red {
+  background-color: #f2bcbc;
+  border: 1px solid #b92828;
+  color: #991919;
+}
+
+.green {
+  background-color: #d1e0bf;
+  border: 1px solid #6b7e54;
+  color: #51603f;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
+  color: #38448e;
 }
